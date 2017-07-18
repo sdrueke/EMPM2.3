@@ -478,7 +478,7 @@
 ! -- input file paths (given in namelist)
 ! -- output path (given in namelist)
         CHARACTER(LEN=70) :: c_file, d_file, i_file, v_file
-        CHARACTER(LEN=20) :: i_profile_file, v_profile_file, drop_file, ccn_file
+        CHARACTER(LEN=30) :: i_profile_file, v_profile_file, drop_file, ccn_file
         CHARACTER(LEN=50) :: i_profile_path, v_profile_path, drop_path, ccn_path
         CHARACTER(LEN=50) :: output_path
 
